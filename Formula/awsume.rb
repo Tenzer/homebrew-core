@@ -2,7 +2,7 @@ class Awsume < Formula
   include Language::Python::Virtualenv
 
   desc "Utility for easily assuming AWS IAM roles from the command-line"
-  homepage "https://www.trek10.com/blog/awsume-aws-assume-made-awesome"
+  homepage "https://awsu.me/"
   url "https://github.com/trek10inc/awsume/archive/4.4.1.tar.gz"
   sha256 "66d698b4716a1dc7c927778a8fe124a6ac2d99334aff2be5dac6b13598b4e08f"
   license "MIT"
